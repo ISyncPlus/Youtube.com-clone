@@ -1,0 +1,15 @@
+.google{
+    width:180px;
+    padding-left: 200px;
+}
+.input-box{
+    display: block;
+    width: 400px;
+    padding-left:7px;
+    margin-left: 96px;
+    border-radius: 20px;
+    height: 32px;
+    border-style: solid;
+    border-color: whitesmoke;
+    box-shadow: 3px 3px 3px rgba(174, 171, 171, 0.628);
+}

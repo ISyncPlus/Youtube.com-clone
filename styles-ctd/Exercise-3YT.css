@@ -1,0 +1,9 @@
+.search-box{
+    width:400px;
+    height: 29px;
+    border-radius: 30px;
+    padding-left: 12px;
+    box-shadow: 3px 3px 3px rgb(220, 218, 218);
+    border-color:transparent;
+}
+

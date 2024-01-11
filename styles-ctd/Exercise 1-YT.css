@@ -1,0 +1,10 @@
+.thumb-1{
+    width: 200px;
+    object-fit:contain;
+    object-position: top;
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 1px;
+
+
+}

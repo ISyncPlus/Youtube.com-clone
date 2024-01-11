@@ -1,0 +1,68 @@
+p{
+    font-weight: bold;
+    font-size: 42px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tahoma-font{
+font-family: tahoma;
+font-size: 42px;
+margin-bottom: 30px;
+}
+
+.deal-font{
+font-family: Arial;
+margin-bottom: 7px;
+}
+
+.sales-font{
+color: rgb(243, 48, 48);
+font-size: 24px;
+font-style: italic;
+font-family: Arial;
+font-weight: lighter;
+margin-bottom:120px;
+}
+
+.hcc-text{
+font-family: Verdana;
+font-size: 30px;
+}
+
+.btp-text{
+font-size: 27px;
+color:grey;
+font-family: cambria;
+font-weight: lighter;
+margin-bottom: 35px;
+}
+
+.text-body1{
+font-size:23px;
+margin-bottom: 24px;
+width: 470px;
+}
+.first-button{
+color: white;
+background-color: rgb(28, 125, 28);
+border-radius: 7px;
+border-style: solid;
+border-color:transparent;
+border-width: 1px;
+padding-right: 20px;
+padding-left: 20px;
+padding-top: 5.5px;
+padding-bottom: 5.5px;
+transition: background-color 0.2s;
+}
+.first-button:hover{
+cursor:pointer;
+color: rgb(28, 125, 28);
+background-color: white;
+border-color:rgb(28, 125, 28);
+
+}
+.first-button:active{
+background-color: rgb(28, 125, 28);
+color: white;
+}
